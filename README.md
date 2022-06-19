@@ -1,1 +1,1 @@
-Index update
+js folder deleted
